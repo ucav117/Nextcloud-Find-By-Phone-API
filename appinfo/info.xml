@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>phonefinder</id>
+  <name>Phone Finder</name>
+  <summary>Find users by phone number</summary>
+  <description>OCS API: lookup users by their profile phone number</description>
+  <version>0.1.0</version>
+  <licence>agpl</licence>
+  <author>Hunter Evans</author>
+  <namespace>PhoneFinder</namespace>
+  <dependencies>
+    <nextcloud min-version="29" max-version="32"/>
+  </dependencies>
+</info>
